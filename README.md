@@ -51,6 +51,9 @@ Fast, fierce, and technical — Iron Clash is all about skill and timing.
 
 ## 📸 Screenshots
 
+![Screenshot (367)](https://github.com/user-attachments/assets/7e21d7ba-e0f3-41fe-83c9-2d938f758f3c)
+
+![Screenshot (366)](https://github.com/user-attachments/assets/4602fadc-0e0c-475e-9fe8-ff68a42947a1)
 
 
 ---
@@ -82,4 +85,3 @@ Fast, fierce, and technical — Iron Clash is all about skill and timing.
 
 ---
 
-Let me know if you'd like a **dark theme version**, a **GitHub-flavored Markdown version**, or if you’re preparing for publishing on **itch.io**, **Steam**, or another store!
