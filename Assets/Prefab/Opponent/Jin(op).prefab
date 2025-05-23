@@ -15087,7 +15087,7 @@ MonoBehaviour:
   rotateSpeed: 10
   charController: {fileID: 1470147580837343554}
   animator: {fileID: 5514093261312821520}
-  attackCooldown: 0
+  attackCooldown: 2
   attackDamage: 5
   attackCount: 0
   randomNumber: 0
