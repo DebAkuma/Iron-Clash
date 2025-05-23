@@ -1,0 +1,44 @@
+# Unity files - treat as text
+*.cs              text
+*.shader          text
+*.cginc           text
+*.compute         text
+*.glsl            text
+*.hlsl            text
+*.json            text
+*.txt             text
+*.xml             text
+*.yaml            text
+*.yml             text
+
+# Unity assets that are mergeable (text-based)
+*.unity           merge=unityyamlmerge eol=lf
+*.prefab          merge=unityyamlmerge eol=lf
+*.asset           merge=unityyamlmerge eol=lf
+*.mat             merge=unityyamlmerge eol=lf
+*.anim            merge=unityyamlmerge eol=lf
+*.controller      merge=unityyamlmerge eol=lf
+*.overrideController merge=unityyamlmerge eol=lf
+*.mask            merge=unityyamlmerge eol=lf
+
+# Binary Unity files (non-mergeable)
+*.dll             binary
+*.exe             binary
+*.png             binary
+*.jpg             binary
+*.jpeg            binary
+*.tga             binary
+*.tif             binary
+*.tiff            binary
+*.psd             binary
+*.mp3             binary
+*.ogg             binary
+*.wav             binary
+*.fbx             binary
+*.mp4             binary
+*.mov             binary
+*.webm            binary
+*.blend           binary
+
+# Set default behavior
+* text=auto
